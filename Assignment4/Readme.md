@@ -1,0 +1,3 @@
+- Training a CNN for CIFAR-10
+- Visualizing kernels of each convolutional filter
+- Visualizing outputs of each convolutional filter
